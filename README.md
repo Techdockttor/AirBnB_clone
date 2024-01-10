@@ -14,11 +14,8 @@ on the storeage engine for the backend part of the website. It should be able to
 - operate on objects  (count, compute stats, etc...)
 - Update attributes of an object
 
-## Data diagram  :beginner:  
-![My Image](back_tools/data_map.jpeg)
-
 ## To start and use the console:
-* Clone this repo: `git clone "https://github.com/chesahkalu/AirBnB_clone.git"`
+* Clone this repo: `git clone "https://github.com/Techdocttor/AirBnB_clone.git"`
 * Enter AirBnb_clone directory: `cd AirBnB_clone`
 * To Run the console(interactively): enter `./console.py`
 	- A prompt `(hbnb)` is displayed for input, then enter command. Example::memo:
